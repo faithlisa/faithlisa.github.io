@@ -16,7 +16,7 @@ Directed exchange is the ability to share health information between health care
 
 ### a % Cumulative variance explained using principal component analysis. b Scree plot graph for components with its eigen values of lowland region
 
-BENEFITS.
+## BENEFITS.
 Numerous benefits of employing health information exchange have been discovered and some of these are.
 •	
 •	Enables health service providers to explore technologies which improve patient medical care.
@@ -32,7 +32,7 @@ Numerous benefits of employing health information exchange have been discovered 
 •	Provides access to valuable clinic data.
 •	Improves health care quality, safety and patients’ recovery.
 
-CHALLENGES
+## CHALLENGES
 Just as there are quite several benefits of health information exchange, 
 •	A lot of expenses are incurred during the transition process from analog record system to digital record system.
 •	Requires too much training and some medical professions may fail to adapt to it.
@@ -48,10 +48,10 @@ Just as there are quite several benefits of health information exchange,
 •	Training issues and user error, some healthcare professionals may have difficulty accepting the new digital format
 •	Find the right IT support to navigate and maintain the new digital format 
 
-CONCLUSION
+## CONCLUSION
 As more and more healthcare information is digitized, the potential for HIE to improve patient safety will increase and is already strong. A challenge will be to develop health systems capable of processing and using the greatly increased information Only then will the potential for improved patient safety through improved HIE be realized, as we have increased the percentage of time the right information is delivered to the right person at the right time so that the right health care decisions can be made.
 
-REFERENCES
+## REFERENCES
 
 Kohn L, Corrigan J, Donaldson M, editors. To Err Is Human: Building a Safer Health System. Washington DC: Institute of Medicine, National Academy Press; 2000
 
