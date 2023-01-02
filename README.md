@@ -1,18 +1,20 @@
-HEALTH INFORMATION EXCHANGE BENEFITS AND CHALLENGES.
+# HEALTH INFORMATION EXCHANGE BENEFITS AND CHALLENGES.
 
-Abstract. 
+## Abstract. 
 Health Information Exchange is rapidly growing in the health care industry, and this is due to the extensive use of Information Communication Technology and wide invention of a whole lot of Information Technology devices and applications almost each day that comes. Advanced Health care systems and health service providers have immensely implemented the element of Health Information Exchange and hence promoting it worldwide. Subsequently, the impact of the implementation of Health Information Exchange in the health care system has been greatly revealed.  Several challenges, predicaments and confusion can be eliminated in the field of health care if the right details about the right patients are provided at the right time, and this is what health information exchange does. This paper aims at reviewing the benefits, methods and challenges of health information exchange.
 
-Introduction
- how would patients’ data be handled in the health care industry if the system of health information exchange did not evolve? How hectic would it be to access patients’ information in an analog setting? This is what the system of Health Information Exchange deals with. Health Information Exchange is a system that enables health service provider to easily access and safely share patients’ 
+## Introduction
+How would patients’ data be handled in the health care industry if the system of health information exchange did not evolve? How hectic would it be to access patients’ information in an analog setting? This is what the system of Health Information Exchange deals with. Health Information Exchange is a system that enables health service provider to easily access and safely share patients’ 
 important medical information electronically and very fast.
 Health Information exchange is currently in three forms namely.
 Query based exchange, consumer mediated exchange and directed exchange.
 Query based exchange is the ability of health care providers to ask for health information about a patient from other fellow health care providers. This is often used during unplanned health care.
 Consumer mediated exchange is the ability of patients to control the use of their health information among health care providers.
 Directed exchange is the ability to share health information between health care providers electronically to enhance coordinated health care.
- ![Picture1](https://user-images.githubusercontent.com/117512700/210268899-23b365c9-7a6a-4677-8228-31a9767f0a43.png)
-a % Cumulative variance explained using principal component analysis. b Scree plot graph for components with its eigen values of lowland region
+
+![Picture1](https://user-images.githubusercontent.com/117512700/210268899-23b365c9-7a6a-4677-8228-31a9767f0a43.png)
+
+### a % Cumulative variance explained using principal component analysis. b Scree plot graph for components with its eigen values of lowland region
 
 BENEFITS.
 Numerous benefits of employing health information exchange have been discovered and some of these are.
