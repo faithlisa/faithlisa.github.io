@@ -11,7 +11,7 @@ Query based exchange, consumer mediated exchange and directed exchange.
 Query based exchange is the ability of health care providers to ask for health information about a patient from other fellow health care providers. This is often used during unplanned health care.
 Consumer mediated exchange is the ability of patients to control the use of their health information among health care providers.
 Directed exchange is the ability to share health information between health care providers electronically to enhance coordinated health care.
- 
+ ![Picture1](https://user-images.githubusercontent.com/117512700/210268899-23b365c9-7a6a-4677-8228-31a9767f0a43.png)
 a % Cumulative variance explained using principal component analysis. b Scree plot graph for components with its eigen values of lowland region
 
 BENEFITS.
