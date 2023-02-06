@@ -1,4 +1,5 @@
 # HEALTH INFORMATION EXCHANGE BENEFITS AND CHALLENGES.
+![blog image](https://user-images.githubusercontent.com/117512700/216855006-99d120ff-7115-475b-8f28-e6dc5d4aa7e6.jpg)
 
 ## Abstract. 
 Health Information Exchange is rapidly growing in the health care industry, and this is due to the extensive use of Information Communication Technology and wide invention of a whole lot of Information Technology devices and applications almost each day that comes. Advanced Health care systems and health service providers have immensely implemented the element of Health Information Exchange and hence promoting it worldwide. Subsequently, the impact of the implementation of Health Information Exchange in the health care system has been greatly revealed.  Several challenges, predicaments and confusion can be eliminated in the field of health care if the right details about the right patients are provided at the right time, and this is what health information exchange does. This paper aims at reviewing the benefits, methods and challenges of health information exchange.
@@ -47,6 +48,7 @@ Just as there are quite several benefits of health information exchange,
 •	Competition from other medical institutions
 •	Training issues and user error, some healthcare professionals may have difficulty accepting the new digital format
 •	Find the right IT support to navigate and maintain the new digital format 
+![second image](https://user-images.githubusercontent.com/117512700/216856989-ea768bd7-cdb1-4713-817b-f96f73c16149.jpg)
 
 ## CONCLUSION
 As more and more healthcare information is digitized, the potential for HIE to improve patient safety will increase and is already strong. A challenge will be to develop health systems capable of processing and using the greatly increased information Only then will the potential for improved patient safety through improved HIE be realized, as we have increased the percentage of time the right information is delivered to the right person at the right time so that the right health care decisions can be made.
